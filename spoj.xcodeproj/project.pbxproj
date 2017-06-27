@@ -7,7 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FEECEB211EEF3A41000E440A /* PT07Y.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEECEB201EEF3A41000E440A /* PT07Y.cpp */; };
+		FEECEB231EF73FDD000E440A /* STPAR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEECEB221EF73FDD000E440A /* STPAR.cpp */; };
+		FEECEB251EF751C1000E440A /* AP2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEECEB241EF751C1000E440A /* AP2.cpp */; };
+		FEECEB271EF756F3000E440A /* FENCE1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEECEB261EF756F3000E440A /* FENCE1.cpp */; };
+		FEECEB291EF9CCA8000E440A /* INVCNT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEECEB281EF9CCA7000E440A /* INVCNT.cpp */; };
 		FEF57CE41ECB99F9006905B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CE31ECB99F9006905B0 /* main.cpp */; };
+		FEF57CEB1ECD18D6006905B0 /* inpofix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CEA1ECD18D6006905B0 /* inpofix.cpp */; };
+		FEF57CED1ECDB025006905B0 /* NSTEPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CEC1ECDB025006905B0 /* NSTEPS.cpp */; };
+		FEF57CEF1ECDBE6E006905B0 /* SAMER08F.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CEE1ECDBE6E006905B0 /* SAMER08F.cpp */; };
+		FEF57CF11ECDCB2A006905B0 /* ACPC10A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CF01ECDCB2A006905B0 /* ACPC10A.cpp */; };
+		FEF57CF31ECDD612006905B0 /* CANDY.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CF21ECDD612006905B0 /* CANDY.cpp */; };
+		FEF57CF51ECDE69E006905B0 /* FASHION.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CF41ECDE69E006905B0 /* FASHION.cpp */; };
+		FEF57CF71ECDF05B006905B0 /* TOANDFRO.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CF61ECDF05B006905B0 /* TOANDFRO.cpp */; };
+		FEF57CF91ECE0EC5006905B0 /* AE00.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CF81ECE0EC5006905B0 /* AE00.cpp */; };
+		FEF57CFB1ECE198E006905B0 /* LASTDIG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CFA1ECE198E006905B0 /* LASTDIG.cpp */; };
+		FEF57CFD1ECE35B5006905B0 /* COINS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CFC1ECE35B5006905B0 /* COINS.cpp */; };
+		FEF57CFF1ECF0939006905B0 /* JOLKA.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57CFE1ECF0939006905B0 /* JOLKA.cpp */; };
+		FEF57D031ED1F166006905B0 /* CANDY3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D021ED1F166006905B0 /* CANDY3.cpp */; };
+		FEF57D051ED31AAD006905B0 /* EIGHTS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D041ED31AAD006905B0 /* EIGHTS.cpp */; };
+		FEF57D071ED33235006905B0 /* PALIN.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D061ED33235006905B0 /* PALIN.cpp */; };
+		FEF57D091ED49926006905B0 /* ACODE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D081ED49926006905B0 /* ACODE.cpp */; };
+		FEF57D0B1ED6F961006905B0 /* HANGOVER.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D0A1ED6F961006905B0 /* HANGOVER.cpp */; };
+		FEF57D0D1ED7038B006905B0 /* WILLITST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D0C1ED7038B006905B0 /* WILLITST.cpp */; };
+		FEF57D0F1ED76053006905B0 /* ABSYS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D0E1ED76053006905B0 /* ABSYS.cpp */; };
+		FEF57D111ED9AC19006905B0 /* STAMPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D101ED9AC19006905B0 /* STAMPS.cpp */; };
+		FEF57D131ED9B1D8006905B0 /* CANTON.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D121ED9B1D8006905B0 /* CANTON.cpp */; };
+		FEF57D1B1EDEE733006905B0 /* PERMUT2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D1A1EDEE733006905B0 /* PERMUT2.cpp */; };
+		FEF57D1D1EDF38BA006905B0 /* ARMY.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D1C1EDF38BA006905B0 /* ARMY.cpp */; };
+		FEF57D1F1EE03DF6006905B0 /* TRCOUNT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FEF57D1E1EE03DF6006905B0 /* TRCOUNT.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +51,36 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FEECEB201EEF3A41000E440A /* PT07Y.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PT07Y.cpp; sourceTree = "<group>"; };
+		FEECEB221EF73FDD000E440A /* STPAR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = STPAR.cpp; sourceTree = "<group>"; };
+		FEECEB241EF751C1000E440A /* AP2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AP2.cpp; sourceTree = "<group>"; };
+		FEECEB261EF756F3000E440A /* FENCE1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FENCE1.cpp; sourceTree = "<group>"; };
+		FEECEB281EF9CCA7000E440A /* INVCNT.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = INVCNT.cpp; sourceTree = "<group>"; };
 		FEF57CE01ECB99F9006905B0 /* spoj */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = spoj; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEF57CE31ECB99F9006905B0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FEF57CEA1ECD18D6006905B0 /* inpofix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = inpofix.cpp; sourceTree = "<group>"; };
+		FEF57CEC1ECDB025006905B0 /* NSTEPS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NSTEPS.cpp; sourceTree = "<group>"; };
+		FEF57CEE1ECDBE6E006905B0 /* SAMER08F.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SAMER08F.cpp; sourceTree = "<group>"; };
+		FEF57CF01ECDCB2A006905B0 /* ACPC10A.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ACPC10A.cpp; sourceTree = "<group>"; };
+		FEF57CF21ECDD612006905B0 /* CANDY.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CANDY.cpp; sourceTree = "<group>"; };
+		FEF57CF41ECDE69E006905B0 /* FASHION.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FASHION.cpp; sourceTree = "<group>"; };
+		FEF57CF61ECDF05B006905B0 /* TOANDFRO.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TOANDFRO.cpp; sourceTree = "<group>"; };
+		FEF57CF81ECE0EC5006905B0 /* AE00.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AE00.cpp; sourceTree = "<group>"; };
+		FEF57CFA1ECE198E006905B0 /* LASTDIG.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LASTDIG.cpp; sourceTree = "<group>"; };
+		FEF57CFC1ECE35B5006905B0 /* COINS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = COINS.cpp; sourceTree = "<group>"; };
+		FEF57CFE1ECF0939006905B0 /* JOLKA.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JOLKA.cpp; sourceTree = "<group>"; };
+		FEF57D021ED1F166006905B0 /* CANDY3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CANDY3.cpp; sourceTree = "<group>"; };
+		FEF57D041ED31AAD006905B0 /* EIGHTS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EIGHTS.cpp; sourceTree = "<group>"; };
+		FEF57D061ED33235006905B0 /* PALIN.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PALIN.cpp; sourceTree = "<group>"; };
+		FEF57D081ED49926006905B0 /* ACODE.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ACODE.cpp; sourceTree = "<group>"; };
+		FEF57D0A1ED6F961006905B0 /* HANGOVER.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HANGOVER.cpp; sourceTree = "<group>"; };
+		FEF57D0C1ED7038B006905B0 /* WILLITST.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WILLITST.cpp; sourceTree = "<group>"; };
+		FEF57D0E1ED76053006905B0 /* ABSYS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ABSYS.cpp; sourceTree = "<group>"; };
+		FEF57D101ED9AC19006905B0 /* STAMPS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = STAMPS.cpp; sourceTree = "<group>"; };
+		FEF57D121ED9B1D8006905B0 /* CANTON.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CANTON.cpp; sourceTree = "<group>"; };
+		FEF57D1A1EDEE733006905B0 /* PERMUT2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PERMUT2.cpp; sourceTree = "<group>"; };
+		FEF57D1C1EDF38BA006905B0 /* ARMY.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ARMY.cpp; sourceTree = "<group>"; };
+		FEF57D1E1EE03DF6006905B0 /* TRCOUNT.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TRCOUNT.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +114,34 @@
 			isa = PBXGroup;
 			children = (
 				FEF57CE31ECB99F9006905B0 /* main.cpp */,
+				FEF57CEA1ECD18D6006905B0 /* inpofix.cpp */,
+				FEF57CEC1ECDB025006905B0 /* NSTEPS.cpp */,
+				FEF57CEE1ECDBE6E006905B0 /* SAMER08F.cpp */,
+				FEF57CF01ECDCB2A006905B0 /* ACPC10A.cpp */,
+				FEF57CF21ECDD612006905B0 /* CANDY.cpp */,
+				FEF57CF41ECDE69E006905B0 /* FASHION.cpp */,
+				FEF57CF61ECDF05B006905B0 /* TOANDFRO.cpp */,
+				FEF57CF81ECE0EC5006905B0 /* AE00.cpp */,
+				FEF57CFA1ECE198E006905B0 /* LASTDIG.cpp */,
+				FEF57CFC1ECE35B5006905B0 /* COINS.cpp */,
+				FEF57CFE1ECF0939006905B0 /* JOLKA.cpp */,
+				FEF57D021ED1F166006905B0 /* CANDY3.cpp */,
+				FEF57D041ED31AAD006905B0 /* EIGHTS.cpp */,
+				FEF57D061ED33235006905B0 /* PALIN.cpp */,
+				FEF57D081ED49926006905B0 /* ACODE.cpp */,
+				FEF57D0A1ED6F961006905B0 /* HANGOVER.cpp */,
+				FEF57D0C1ED7038B006905B0 /* WILLITST.cpp */,
+				FEF57D0E1ED76053006905B0 /* ABSYS.cpp */,
+				FEF57D101ED9AC19006905B0 /* STAMPS.cpp */,
+				FEF57D121ED9B1D8006905B0 /* CANTON.cpp */,
+				FEF57D1A1EDEE733006905B0 /* PERMUT2.cpp */,
+				FEF57D1C1EDF38BA006905B0 /* ARMY.cpp */,
+				FEF57D1E1EE03DF6006905B0 /* TRCOUNT.cpp */,
+				FEECEB201EEF3A41000E440A /* PT07Y.cpp */,
+				FEECEB221EF73FDD000E440A /* STPAR.cpp */,
+				FEECEB241EF751C1000E440A /* AP2.cpp */,
+				FEECEB261EF756F3000E440A /* FENCE1.cpp */,
+				FEECEB281EF9CCA7000E440A /* INVCNT.cpp */,
 			);
 			path = spoj;
 			sourceTree = "<group>";
@@ -119,7 +203,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEF57CFB1ECE198E006905B0 /* LASTDIG.cpp in Sources */,
+				FEF57D1D1EDF38BA006905B0 /* ARMY.cpp in Sources */,
+				FEECEB291EF9CCA8000E440A /* INVCNT.cpp in Sources */,
+				FEF57D0F1ED76053006905B0 /* ABSYS.cpp in Sources */,
+				FEF57CF91ECE0EC5006905B0 /* AE00.cpp in Sources */,
+				FEF57D111ED9AC19006905B0 /* STAMPS.cpp in Sources */,
+				FEF57CF51ECDE69E006905B0 /* FASHION.cpp in Sources */,
 				FEF57CE41ECB99F9006905B0 /* main.cpp in Sources */,
+				FEF57D071ED33235006905B0 /* PALIN.cpp in Sources */,
+				FEF57CFD1ECE35B5006905B0 /* COINS.cpp in Sources */,
+				FEF57D091ED49926006905B0 /* ACODE.cpp in Sources */,
+				FEECEB231EF73FDD000E440A /* STPAR.cpp in Sources */,
+				FEF57CF71ECDF05B006905B0 /* TOANDFRO.cpp in Sources */,
+				FEECEB251EF751C1000E440A /* AP2.cpp in Sources */,
+				FEF57D0B1ED6F961006905B0 /* HANGOVER.cpp in Sources */,
+				FEF57D0D1ED7038B006905B0 /* WILLITST.cpp in Sources */,
+				FEF57CED1ECDB025006905B0 /* NSTEPS.cpp in Sources */,
+				FEF57D1B1EDEE733006905B0 /* PERMUT2.cpp in Sources */,
+				FEECEB271EF756F3000E440A /* FENCE1.cpp in Sources */,
+				FEF57D131ED9B1D8006905B0 /* CANTON.cpp in Sources */,
+				FEF57CEB1ECD18D6006905B0 /* inpofix.cpp in Sources */,
+				FEECEB211EEF3A41000E440A /* PT07Y.cpp in Sources */,
+				FEF57CF31ECDD612006905B0 /* CANDY.cpp in Sources */,
+				FEF57CF11ECDCB2A006905B0 /* ACPC10A.cpp in Sources */,
+				FEF57D1F1EE03DF6006905B0 /* TRCOUNT.cpp in Sources */,
+				FEF57CEF1ECDBE6E006905B0 /* SAMER08F.cpp in Sources */,
+				FEF57D051ED31AAD006905B0 /* EIGHTS.cpp in Sources */,
+				FEF57D031ED1F166006905B0 /* CANDY3.cpp in Sources */,
+				FEF57CFF1ECF0939006905B0 /* JOLKA.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +358,7 @@
 				FEF57CE91ECB99F9006905B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
